@@ -7,3 +7,5 @@ rvm:
   - 1.8.7
   - ree
 install: gem install rails
+gem install rake
+before_script: cd Rails
